@@ -1,6 +1,6 @@
 # Data Engineering with Notebooks
 
-This repository contains my implementation of Snowflake’s *Data Engineering with Notebooks* Quickstart and Data Engineering Bootcamp project.
+This repository contains my implementation of Snowflake’s *Data Engineering with Notebooks* Quickstart for the Data Engineering Bootcamp project.
 
 The goal of this project was to understand how Snowflake handles notebook-based data engineering in a more production-oriented way. It uses GitHub Actions to deploy Snowflake notebooks from development to production, and Snowflake Tasks with the Python Task DAG API to orchestrate notebook execution across sandbox and production environments.
 
